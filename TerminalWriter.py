@@ -9,6 +9,8 @@ This module has functions to generate simple tabular reports.
 import sys
 from io import TextIOWrapper
 
+__version__ = "1.0.1"
+
 justify_options = {"left": "<",
                    "center": "^",
                    "right": ">"}
