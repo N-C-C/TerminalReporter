@@ -1,3 +1,4 @@
-"""Terminal Reporter is a lightweight console report formatting tool for tabular data.  It can either write to a file or to the terminal (via stdout)."""
+"""Terminal Reporter is a lightweight console report formatting tool for tabular data.  It can either write to a file
+or to the terminal (via stdout). """
 
-__version__ = "0.1"
+__version__ = "1.0.0"

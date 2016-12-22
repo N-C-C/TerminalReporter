@@ -10,6 +10,12 @@ Terminal Reporter is a lightweight console report formatting tool for tabular da
 Getting Started
 -----
 Importing the module:
+>>> import TerminalWriter
+Creating a title:
+
+>>> import TerminalWriter
+Creating a title:
+
 >>> import writer
 Creating a title:
 >>> print(writer.title_generator("Sample Title", 10))
